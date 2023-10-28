@@ -1,0 +1,27 @@
+IG_UI_FR = {
+	IGUI_VehicleName82oshkoshM911 = "'82 Oshkosh M911 Camion",
+	IGUI_VehicleName82oshkoshM911B = "'82 Oshkosh M911 Noir",
+	IGUI_VehicleName82oshkoshM911Burnt = "'82 Oshkosh M911 Brûlé",
+
+	IGUI_VehiclePartM911Trunk = "Coffre Stockage",
+	IGUI_VehiclePartM911Toolbox = "Boîte à outils",
+	IGUI_VehiclePartM911Bullbar = "Pare-buffle",
+	IGUI_VehiclePartM911Mudflaps = "Garde-boues",
+	IGUI_VehiclePartM911Muffler = "Silencieux",
+	IGUI_VehiclePartM911SpareTire = "Pneu de rechange",
+	IGUI_VehiclePartM911WindshieldArmor = "Armure de pare-brise",
+	IGUI_VehiclePartM911WindshieldRearArmor = "Armure de pare-brise arrière",
+	IGUI_VehiclePartM911DoorFrontLeftArmor = "Armure De Porte Avant Gauche",
+	IGUI_VehiclePartM911DoorFrontRightArmor = "Armure De Porte Avant Droite",
+
+	IGUI_VehicleNameTrailerM747lowbed = "M747 Remorque surbaissée",
+	IGUI_VehicleNameTrailerM127stake = "M127 Remorque Stake",
+	IGUI_VehicleNameTrailerM128van = "M128 Remorque Van",
+	IGUI_VehicleNameTrailerM129van = "M129 Remorque Van",
+	IGUI_VehicleNameTrailerM967tanker = "M967 Remorque Tanker",
+
+	IGUI_VehiclePartM967Trunk2 = "Coffre 2",
+	IGUI_VehiclePartM967Trunk3 = "Coffre 3",
+	IGUI_VehiclePartTrunkDoor2 = "Fermeture de coffre 2",
+	IGUI_VehiclePartTrunkDoor3 = "Fermeture de coffre 3",
+}
