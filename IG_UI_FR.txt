@@ -8,11 +8,11 @@ IG_UI_FR = {
 	IGUI_VehiclePartM911Bullbar = "Pare-buffle",
 	IGUI_VehiclePartM911Mudflaps = "Garde-boues",
 	IGUI_VehiclePartM911Muffler = "Silencieux",
-	IGUI_VehiclePartM911SpareTire = "Pneu de rechange",
-	IGUI_VehiclePartM911WindshieldArmor = "Armure de pare-brise",
-	IGUI_VehiclePartM911WindshieldRearArmor = "Armure de pare-brise arrière",
-	IGUI_VehiclePartM911DoorFrontLeftArmor = "Armure De Porte Avant Gauche",
-	IGUI_VehiclePartM911DoorFrontRightArmor = "Armure De Porte Avant Droite",
+	IGUI_VehiclePartM911SpareTire = "Pneu de secours",
+	IGUI_VehiclePartM911WindshieldArmor = "Blindage de pare-brise",
+	IGUI_VehiclePartM911WindshieldRearArmor = "Blindage de pare-brise arrière",
+	IGUI_VehiclePartM911DoorFrontLeftArmor = "Blindage de portière avant gauche",
+	IGUI_VehiclePartM911DoorFrontRightArmor = "Blindage de portière avant droite",
 
 	IGUI_VehicleNameTrailerM747lowbed = "M747 Remorque surbaissée",
 	IGUI_VehicleNameTrailerM127stake = "M127 Remorque Stake",
@@ -24,4 +24,6 @@ IG_UI_FR = {
 	IGUI_VehiclePartM967Trunk3 = "Coffre 3",
 	IGUI_VehiclePartTrunkDoor2 = "Fermeture de coffre 2",
 	IGUI_VehiclePartTrunkDoor3 = "Fermeture de coffre 3",
+
+	IGUI_CraftCategory_M911 = "'82 Oshkosh M911",
 }
