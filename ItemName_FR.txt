@@ -29,4 +29,8 @@ ItemName_FR = {
 	ItemName_OshkoshShirts.TShirt_OshkoshBlack = "Oshkosh: T-shirt noir",
 	ItemName_OshkoshShirts.TShirt_OshkoshGray = "Oshkosh: T-shirt gris",
 	ItemName_OshkoshShirts.TShirt_bknht = "T-Shirt bknht",
+
+	ItemName_Base.IsoContainerTrunkDoor2 = "Porte de conteneur ISO",
+	ItemName_Base.V100Tire2 = "Pneu anti-crevaison",
+	ItemName_USMIL.Seat0 = "Siège de véhicule militaire américain",
 }
